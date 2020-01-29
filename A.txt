@@ -1,3 +1,5 @@
-This is version 1 of toy file A.
-It was created by user1 on my work pc.
+This is version 2 of toy file A.
+Version 1 was created by user1 on my work pc.
+It was edited (to create what I am calling here Version 2) by user2 on my work PC.
+
 
