@@ -1,2 +1,4 @@
-This is version 1 of toy file B.
-It was created by user1 on my work pc.
+This is version 2 of toy file B.
+It was originally created by user1 on my work pc,
+and then edited by user2; AFTER user2 had uploaded changes to A.txt.
+
